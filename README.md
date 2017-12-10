@@ -2,6 +2,8 @@
 
 A playground for sidekiq.
 
+![sidekiq_usage](https://user-images.githubusercontent.com/16028784/33803225-76b25ec8-dd93-11e7-928f-a7e689ed65e1.png)
+
 Technologies:
 - Ruby
 - Sidekiq
